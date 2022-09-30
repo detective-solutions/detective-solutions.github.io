@@ -2,7 +2,7 @@
 layout: default
 title: Create Masking
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # Learn how to create a table masking
