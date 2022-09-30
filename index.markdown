@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# official detective product documentation
+
+This is the official detective product documentation. This will grow over time.
