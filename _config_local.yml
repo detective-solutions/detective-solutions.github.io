@@ -34,6 +34,15 @@ github_username:  jekyll
 theme: "just-the-docs"
 # remote_theme: pmarsceill/just-the-docs
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  important:
+    title: Important
+    color: blue
+
 color_scheme: detective
 search_enabled: false
 plugins:

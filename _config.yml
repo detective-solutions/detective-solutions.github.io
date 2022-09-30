@@ -30,6 +30,15 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  important:
+    title: Important
+    color: blue
+
 # Build settings
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
