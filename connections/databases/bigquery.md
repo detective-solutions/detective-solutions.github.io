@@ -2,6 +2,7 @@
 layout: default
 title: Google Big Query
 parent: Add a Database
+grad_parent: Connect Databases
 nav_order: 1
 ---
 
