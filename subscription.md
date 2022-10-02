@@ -18,10 +18,4 @@ To access the administration of your subscription you have to navigate to the su
 
 ![navigation](./assets/gifs/subscription/navigate_to_subscriptions.gif)
 
-### Features
-After you have made sure that the prerequisites are met, you can make the following changes:
-- [Upgrade your subscription](./subscription/update.md)
-- [Cancel your subscription](./subscription/update.md)
-- [Update your payment details](./subscription/update.md)
-- [See and download the invoices](./subscription/update.md)
 
