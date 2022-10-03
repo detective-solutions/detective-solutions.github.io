@@ -3,6 +3,7 @@ layout: default
 title: Connect Databases
 nav_order: 2
 has_children: true
+has_toc: false
 ---
 
 # Learn how to connect a database to detective

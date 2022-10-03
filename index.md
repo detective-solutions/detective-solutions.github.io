@@ -1,7 +1,7 @@
 ---
 layout: home
 title: detective
-nav_order: 1
+nav_order: 2
 ---
 
 # Official detective product documentation
