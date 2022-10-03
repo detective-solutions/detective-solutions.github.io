@@ -1,7 +1,7 @@
 ---
 layout: home
-title: detective
-nav_order: 2
+title: Introduction
+nav_order: 1
 ---
 
 # Official detective product documentation
@@ -12,7 +12,7 @@ In case you need quick support in finding features we provide this documentation
 
 
 
-### Learn how detective works
+### Learn the Basics
 
 <div>
     <div class="card" style="width: 18rem; float: left;">
@@ -31,6 +31,11 @@ In case you need quick support in finding features we provide this documentation
         <a href="./subscription/masking.md" class="btn btn-primary">Learn more</a>
       </div>
     </div>
+</div>
+
+
+### Learn how to manage your detective instance
+<div>
     <div class="card" style="width: 18rem; float: left;">
       <div class="card-body">
         <h5 class="card-title">Subscription</h5>
@@ -39,5 +44,6 @@ In case you need quick support in finding features we provide this documentation
         <a href="./subscription/subscription.md" class="btn btn-primary">Learn more</a>
       </div>
     </div>
-</div>
+</div>    
+
 
