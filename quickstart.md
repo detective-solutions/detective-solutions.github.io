@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quickstart with detective
+title: Quickstart
 nav_order: 1
 ---
 

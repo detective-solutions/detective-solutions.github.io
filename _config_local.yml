@@ -47,9 +47,6 @@ search_enabled: true
 plugins:
   - jekyll-feed
 
-aux_links:
-  "TestLink":
-    - "//github.com/just-the-docs/just-the-docs"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
