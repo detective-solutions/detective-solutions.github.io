@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delete Masking
-parent: Masking
+parent: Apply Masking
 nav_order: 2
 ---
 
