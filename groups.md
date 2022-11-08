@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Users
+title: Groups
 nav_order: 2
 has_children: true
 ---
 
-# Learn how users work
+# Learn how groups
 For good collaboration, of course, users are needed. The more open and transparent the communication, the better the results can be. However, it is also perfectly clear that not all users should be allowed or able to do everything. For this reason, detective also has a user and group concept, which is important to understand in order to specifically enable masks and potential release processes.
 
 ### Prerequisites
