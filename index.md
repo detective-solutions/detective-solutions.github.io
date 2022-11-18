@@ -51,6 +51,24 @@ In case you need quick support in finding features we provide this documentation
         <a href="subscription" class="btn">Learn more</a>
       </div>
     </div>
+</div>
+<div style="position: abolute; right:0; left: 0;">
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title"><span class="material-icons md-18">gradient</span> Users</h3>
+      <h4 class="card-subtitle mb-2 text-muted">Manage users</h4>
+      <p class="card-text">Learn how to modify user roles and remove them from your workspace</p>
+      <a href="masking" class="btn">Learn more</a>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title"><span class="material-icons md-18">gradient</span> Groups</h3>
+      <h4 class="card-subtitle mb-2 text-muted">Groups are essential for masks</h4>
+      <p class="card-text">Learn how to sort your users into groups which will be important for masks</p>
+      <a href="masking" class="btn">Learn more</a>
+    </div>
+  </div>
 </div>    
 
 

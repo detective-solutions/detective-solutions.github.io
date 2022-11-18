@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cancel subscription
-parent: Manage Subscription
+title: Users
+parent: Users and Groups
 nav_order: 2
 ---
 
