@@ -6,7 +6,9 @@ nav_order: 2
 ---
 
 # Delete a user
-When you want to remove a user from your workspace you can simply do that via the User menu in the `Admin` section. However, make sure you fullfill the [prerequisites](../users.html). In case you have admin rights, you can remove a user from the workspace by clicking the trash icon on the right hand side of a users listing in the table.
+Whenever you want to remove a user from your workspace you can simply do that via the User menu in the `Admin` section. However, make sure you fullfill the [prerequisites](../users.html). In case you have admin rights, you can remove a user from the workspace by clicking the trash icon on the right hand side of a users listing in the table.
+
+![delete_users](../assets/gifs/users/delete_user.gif)
 
 1. Click the trash button
 2. When you are sure click the button in the warning modal and the user will be removed
